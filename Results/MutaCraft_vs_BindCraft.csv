@@ -1,0 +1,9 @@
+algorithm,trajectory,binder_length,seed,trajectory_plddt (higher is better),duration_seconds,
+BindCraft,Compare_HLyso_l26_s300491,26,300491,0.64,145,
+BindCraft,Compare_HLyso_l24_s965728,24,965728,0.4,168,
+BindCraft,Compare_HLyso_l28_s832171,28,832171,0.59,163,
+,,,,,476,Total
+MutaCraft,HL6_VHH_run,99,HL6_camel_VHH_fragment.pdb from 1OP9,0.7,453,
+,,,,,,
+Target Protein,,,,,,
+1OP9,,,,,,
