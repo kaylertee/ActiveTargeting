@@ -1,0 +1,12 @@
+algorithm,trajectory,binder_length,duration_seconds,AlphaFold calls,plddt (higher is better),ipTM (higher is better),loss (lower is better)
+BindCraft,Compare_HLyso_l99_s119748,99,283,71,0.63,0.13,8.46
+BindCraft,Compare_HLyso_l99_s34938,99,291,71,0.54,0.14,9.9
+BindCraft,Compare_HLyso_l99_s648422,99,318,81,0.76,0.14,9.68
+,,,Total: 892,223,Mean: 0.643,Mean: 0.1367,Mean: 9.347
+,,,,,,,
+MutaCraft,HL6_VHH_run (using HL6_camel_VHH_fragment.pdb from 1OP9),99,864,140,0.7,0.15,5.757607937
+,,,,,,,
+,,,,,,,
+,,,,,,,
+Target Protein,,,,,,,
+1OP9,,,,,,,
