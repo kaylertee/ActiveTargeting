@@ -1,5 +1,6 @@
 ﻿Binder,plddt_mean,ptm_mean,i_ptm_mean,pae_mean,i_pae_mean,loss_mean
 ,Higher is better,Higher is better,Higher is better,Lower is better,Lower is better,Lower is better
-HL6 camel VHH template (Original Binder),0.397544,0.439117,0.154836,0.766483,0.881567,6.450178
+HL6 camel VHH template (Original Binder in 1OP9),0.397544,0.439117,0.154836,0.766483,0.881567,6.450178
 Best MutaCraft Binder,0.494419,0.44309,0.155191,0.761355,0.853633,5.961434
 Improvement Percentage,24.3%☑,0.9%☑,0.22%☑,0.669%☑,3.2%☑,7.6%☑
+
